@@ -29,8 +29,3 @@ Anyone can contribute in this project.
 **Shantu Chandra Dash** 
 * [GitHub](https://github.com/vishi9780)
 * [Facebook](https://www.facebook.com/vishu9780)
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/vishi9780/Android-Architecture-Components-MVVM-Retrofit-JAVA/blob/master/LICENSE) file for details
